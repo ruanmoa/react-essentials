@@ -5,5 +5,6 @@ Simple application developed in react to practice some essential concepts, such 
 ![Application Image](/readme.png)
 
 
-Credits to the course platform: https://academind.com/ 
-Github: https://github.com/maxschwarzmueller @maxschwarzmueller 
+Credits to the course platform: https://academind.com/
+
+:octocat: : [@maxschwarzmueller](https://github.com/maxschwarzmueller)
